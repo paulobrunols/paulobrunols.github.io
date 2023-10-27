@@ -2196,3 +2196,9 @@ input, select, textarea {
 			}
 
 		}
+		.menu li {
+			display: inline;
+		}
+		.award li {
+			list-style-type: none;
+		}
